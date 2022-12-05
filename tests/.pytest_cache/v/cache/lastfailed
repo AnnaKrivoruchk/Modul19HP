@@ -1,0 +1,4 @@
+{
+  "test_pet_friends.py::test_post_new_pet_without_photo_valid_data_invalid_user": true,
+  "test_pet_friends.py::test_get_all_pets_with_no_key": true
+}
